@@ -1,0 +1,6 @@
+﻿<Window x:Class="GACScanner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GAC Scanner" Height="500" Width="800" xmlns:my="clr-namespace:GACScanner.Control" WindowStartupLocation="CenterScreen">
+    <my:MainControl x:Name="mainControl1" />
+</Window>
